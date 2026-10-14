@@ -1,7 +1,3 @@
-Here’s the updated `README.md` content for your `voice-bot-skills` repository, with the polished Telugu skill description.
-
-Writing
-
 # Voice Bot Skills
 
 A growing collection of custom voice bot skills.
