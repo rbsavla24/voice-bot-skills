@@ -1,6 +1,6 @@
 # Voice Bot Skills
 
-A growing collection of custom voice bot skills.
+A growing collection of custom AI voice bot skills.
 
 ## Skills
 
