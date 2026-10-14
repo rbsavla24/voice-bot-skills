@@ -1,4 +1,17 @@
-- `vb-resuing_routing.skill` — Enables existing voice bots to support routing and conversation resumption.
-- `language-telugu.skill` — Adds Telugu language support to voice bots.
-- `language-tamil.skill` — Adds Tamil language support to voice bots.
-- `language-kannada.skill` — Adds Kannada language support to voice bots.
+Here’s the updated `README.md` content for your `voice-bot-skills` repository, with the polished Telugu skill description.
+
+Writing
+
+# Voice Bot Skills
+
+A growing collection of custom voice bot skills.
+
+## Skills
+
+- **`vb-resuing_routing.skill`** — Helps convert existing voice bots to support routing and conversation resumption, enabling seamless transitions between conversation flows and allowing users to resume interrupted interactions.
+
+- **`language-telugu.skill`** — Enhances Telugu voice bots with natural language expressions and conversational phrasing for smoother, more engaging interactions with Telugu-speaking users.
+
+- **`language-tamil.skill`** — Enhances Tamil voice bots with natural language expressions and conversational phrasing for smoother, more engaging interactions with Tamil-speaking users.
+
+- **`language-kannada.skill`** — Enhances Kannada voice bots with natural language expressions and conversational phrasing for smoother, more engaging interactions with Kannada-speaking users.
