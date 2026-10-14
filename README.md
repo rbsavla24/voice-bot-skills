@@ -4,7 +4,7 @@ A growing collection of custom AI voice bot skills.
 
 ## Skills
 
-### `vb-resuing_routing.skill`
+### 1. `vb-resuing_routing.skill`
 
 Adds **"resume from where the last call stopped"** to any node-based voice bot (collections, surveys, disclosures, onboarding). When a call drops midway, the next call to that customer picks up at the first unanswered node instead of restarting. It works entirely at the prompt level, with no platform code changes.
 
@@ -37,11 +37,11 @@ The skill also covers auditing and maintaining existing routing bots: checking l
 - **Reporting:** each call's analysis contains only that call's fields, so the reporting layer must merge the call chain into one record per customer.
 
 
-### `language-telugu.skill`
+### 2. `language-telugu.skill`
 — Enhances Telugu voice bots with natural language expressions and conversational phrasing for smoother, more engaging interactions with Telugu-speaking users.
 
-### `language-tamil.skill`
+### 3. `language-tamil.skill`
 Enhances Tamil voice bots with natural language expressions and conversational phrasing for smoother, more engaging interactions with Tamil-speaking users
 
-### `language-kannada.skill`
+### 4. `language-kannada.skill`
  Enhances Kannada voice bots with natural language expressions and conversational phrasing for smoother, more engaging interactions with Kannada-speaking users.
